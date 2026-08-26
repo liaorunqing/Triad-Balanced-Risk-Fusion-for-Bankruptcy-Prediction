@@ -1,0 +1,66 @@
+﻿feature,attribute,description,selected_count,n_runs,selection_frequency,forced_feature
+27,Attr27,profit on operating activities / financial expenses,23,50,0.46,False
+15,Attr15,(total liabilities × 365) / (gross profit + depreciation),15,50,0.3,False
+11,Attr11,(gross profit + extraordinary items + financial expenses) / total assets,14,50,0.28,False
+21,Attr21,sales(n) / sales(n-1),13,50,0.26,False
+24,Attr24,gross profit (3 years) / total assets,12,50,0.24,False
+26,Attr26,(net profit + depreciation) / total liabilities,10,50,0.2,False
+39,Attr39,profit on sales / sales,10,50,0.2,False
+41,Attr41,total liabilities / operating cash-flow proxy,10,50,0.2,False
+42,Attr42,profit on operating activities / sales,10,50,0.2,False
+5,Attr5,[(cash + short-term securities + receivables - short-term liabilities) / (operating expenses - depreciation)] * 365,9,50,0.18,False
+13,Attr13,(gross profit + depreciation) / sales,9,50,0.18,False
+18,Attr18,gross profit / total assets,9,50,0.18,False
+19,Attr19,gross profit / sales,9,50,0.18,False
+14,Attr14,,8,50,0.16,False
+16,Attr16,,8,50,0.16,False
+35,Attr35,,8,50,0.16,False
+46,Attr46,,8,50,0.16,False
+48,Attr48,,7,50,0.14,False
+58,Attr58,,7,50,0.14,False
+1,Attr1,,6,50,0.12,False
+2,Attr2,,6,50,0.12,False
+3,Attr3,,6,50,0.12,False
+4,Attr4,,6,50,0.12,False
+7,Attr7,,6,50,0.12,False
+22,Attr22,,6,50,0.12,False
+44,Attr44,,6,50,0.12,False
+6,Attr6,,5,50,0.1,False
+8,Attr8,,5,50,0.1,False
+9,Attr9,,5,50,0.1,False
+12,Attr12,,5,50,0.1,False
+20,Attr20,,5,50,0.1,False
+45,Attr45,,5,50,0.1,False
+51,Attr51,,5,50,0.1,False
+56,Attr56,,5,50,0.1,False
+62,Attr62,,5,50,0.1,False
+23,Attr23,,4,50,0.08,False
+25,Attr25,,4,50,0.08,False
+28,Attr28,,4,50,0.08,False
+31,Attr31,,4,50,0.08,False
+32,Attr32,,4,50,0.08,False
+38,Attr38,,4,50,0.08,False
+53,Attr53,,4,50,0.08,False
+63,Attr63,,4,50,0.08,False
+64,Attr64,,4,50,0.08,False
+17,Attr17,,3,50,0.06,False
+37,Attr37,,3,50,0.06,False
+54,Attr54,,3,50,0.06,False
+55,Attr55,,3,50,0.06,False
+57,Attr57,,3,50,0.06,False
+59,Attr59,,3,50,0.06,False
+10,Attr10,,2,50,0.04,False
+29,Attr29,,2,50,0.04,False
+30,Attr30,,2,50,0.04,False
+36,Attr36,,2,50,0.04,False
+43,Attr43,,2,50,0.04,False
+47,Attr47,,2,50,0.04,False
+50,Attr50,,2,50,0.04,False
+52,Attr52,,2,50,0.04,False
+60,Attr60,,2,50,0.04,False
+33,Attr33,,1,50,0.02,False
+34,Attr34,,1,50,0.02,False
+40,Attr40,,1,50,0.02,False
+49,Attr49,,1,50,0.02,False
+61,Attr61,,1,50,0.02,False
+65,Risk,out-of-fold HistGB risk feature,50,50,1.0,True

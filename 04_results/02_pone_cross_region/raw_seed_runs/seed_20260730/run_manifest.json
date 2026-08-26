@@ -1,0 +1,25 @@
+{
+    "data":  "03_data/02_processed/pone_global_2016/pone_regional_long_deduplicated.csv",
+    "seeds":  [
+                  20260730
+              ],
+    "split_seed":  20260727,
+    "pop_size":  6,
+    "iterations":  3,
+    "landmarks":  80,
+    "bootstrap":  5,
+    "features":  [
+                     "V1",
+                     "V2",
+                     "V3",
+                     "V4",
+                     "V5",
+                     "V6",
+                     "V7",
+                     "V8",
+                     "V9",
+                     "V10"
+                 ],
+    "tasks":  9,
+    "global_files_used":  false
+}

@@ -1,0 +1,16 @@
+metric,comparator,mean_difference_full_minus_comparator,full_lower_tasks,full_higher_tasks,wilcoxon_statistic,raw_p
+brier,Balanced_logistic,-0.009390256177245487,4,5,19.0,0.734375
+log_loss,Balanced_logistic,-0.04708313304327522,7,2,4.0,0.02734375
+ece_10,Balanced_logistic,-0.021774755592539163,5,4,19.0,0.734375
+absolute_intercept,Balanced_logistic,-0.20898038005314826,8,1,1.0,0.0078125
+absolute_slope_error,Balanced_logistic,-1.9176116894948645,9,0,0.0,0.00390625
+brier,HistGB,-0.005960762917282673,8,1,1.0,0.0078125
+log_loss,HistGB,-0.013929597922799717,7,2,3.0,0.01953125
+ece_10,HistGB,0.010855886659392834,3,6,9.0,0.12890625
+absolute_intercept,HistGB,0.032038441723610867,3,6,9.0,0.12890625
+absolute_slope_error,HistGB,-0.009117594814472817,5,4,18.0,0.65234375
+brier,Full_random_search,-0.0013908831049350254,4,5,20.0,0.8203125
+log_loss,Full_random_search,-0.002185686209700302,3,6,19.0,0.734375
+ece_10,Full_random_search,0.007165010278389416,2,7,5.0,0.0390625
+absolute_intercept,Full_random_search,0.020802529116088306,2,7,8.0,0.09765625
+absolute_slope_error,Full_random_search,-0.013206107728242144,6,3,15.0,0.42578125

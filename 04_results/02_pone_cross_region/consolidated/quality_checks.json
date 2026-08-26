@@ -1,0 +1,18 @@
+{
+  "seeds": [
+    20260727,
+    20260728,
+    20260729,
+    20260730,
+    20260731
+  ],
+  "metric_rows": 2160,
+  "expected_metric_rows": 2160,
+  "triad_rows": 360,
+  "expected_triad_rows": 360,
+  "prediction_method_blocks": 360,
+  "expected_prediction_method_blocks": 360,
+  "selection_rows": 270,
+  "duplicate_prediction_keys": 0,
+  "missing_metric_values": 0
+}

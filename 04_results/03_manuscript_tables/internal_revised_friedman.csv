@@ -1,0 +1,7 @@
+metric,datasets,methods,statistic,p_value,average_ranks_json
+mcc,5,7,29.14285714285714,5.7164096798029414e-05,"{""Balanced_forest_reference"": 5.0, ""Balanced_logistic"": 6.4, ""EasyEnsemble_reference"": 3.8, ""Extra_trees"": 6.6, ""HistGB_fair"": 1.0, ""Random_forest"": 3.2, ""Triad_risk_fusion"": 2.0}"
+sensitivity,5,7,28.371428571428567,7.997278516222874e-05,"{""Balanced_forest_reference"": 4.8, ""Balanced_logistic"": 6.4, ""EasyEnsemble_reference"": 3.6, ""Extra_trees"": 6.6, ""HistGB_fair"": 2.0, ""Random_forest"": 3.6, ""Triad_risk_fusion"": 1.0}"
+specificity,5,7,26.314285714285717,0.00019453967058540426,"{""Balanced_forest_reference"": 5.0, ""Balanced_logistic"": 6.4, ""EasyEnsemble_reference"": 4.4, ""Extra_trees"": 6.0, ""HistGB_fair"": 1.0, ""Random_forest"": 3.2, ""Triad_risk_fusion"": 2.0}"
+precision,5,7,29.485714285714295,4.922031833626938e-05,"{""Balanced_forest_reference"": 5.0, ""Balanced_logistic"": 6.4, ""EasyEnsemble_reference"": 4.0, ""Extra_trees"": 6.6, ""HistGB_fair"": 1.0, ""Random_forest"": 3.0, ""Triad_risk_fusion"": 2.0}"
+f2,5,7,28.628571428571433,7.15148194111762e-05,"{""Balanced_forest_reference"": 5.0, ""Balanced_logistic"": 6.4, ""EasyEnsemble_reference"": 3.8, ""Extra_trees"": 6.6, ""HistGB_fair"": 1.6, ""Random_forest"": 3.2, ""Triad_risk_fusion"": 1.4}"
+ap,5,7,28.97142857142856,6.159904179868664e-05,"{""Balanced_forest_reference"": 4.6, ""Balanced_logistic"": 6.0, ""EasyEnsemble_reference"": 4.2, ""Extra_trees"": 7.0, ""HistGB_fair"": 1.0, ""Random_forest"": 3.2, ""Triad_risk_fusion"": 2.0}"

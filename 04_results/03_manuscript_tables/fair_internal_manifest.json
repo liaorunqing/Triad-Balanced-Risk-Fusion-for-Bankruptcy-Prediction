@@ -1,0 +1,32 @@
+{
+  "datasets": [
+    "1year.arff",
+    "2year.arff",
+    "3year.arff",
+    "4year.arff",
+    "5year.arff"
+  ],
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "fit_cap": 2800,
+  "validation_cap": 1400,
+  "outer_split": "70% train / 30% test, stratified",
+  "validation_split": "25% of outer training, stratified",
+  "threshold_policy": "triad",
+  "histgb": {
+    "max_iter": 200,
+    "learning_rate": 0.05,
+    "l2_regularization": 0.1
+  },
+  "note": "All references use the same split, capped fitting/validation samples, preprocessing, and validation-only triad threshold rule as the proposed model."
+}

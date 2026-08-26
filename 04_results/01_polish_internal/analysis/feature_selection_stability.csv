@@ -1,0 +1,2 @@
+﻿n_runs,n_pairs,mean_original_feature_count,sd_original_feature_count,mean_pairwise_jaccard,median_pairwise_jaccard,min_pairwise_jaccard,max_pairwise_jaccard
+50,1225,7.26,5.666982784299862,0.0805499515814077,0.0625,0.0,0.75
