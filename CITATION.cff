@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or its released results, please cite the associated manuscript and datasets."
+title: "Cross-Fitted Risk Fusion With a Triad-Balanced Operating Policy for Bankruptcy Prediction"
+type: software
+version: 2.0.0
+date-released: 2026-08-26
+authors:
+  - family-names: Huang
+    given-names: Yongye
+  - family-names: Liao
+    given-names: Runqing
+  - family-names: Yang
+    given-names: Xiaopeng
+  - family-names: Wang
+    given-names: Zhining
+    email: mathwangzhining@163.com
+repository-code: "https://github.com/liaorunqing/Triad-Balanced-Risk-Fusion-for-Bankruptcy-Prediction"
+keywords:
+  - bankruptcy prediction
+  - class imbalance
+  - cost-sensitive learning
+  - probability calibration
+  - risk fusion
+  - cross-regional validation
